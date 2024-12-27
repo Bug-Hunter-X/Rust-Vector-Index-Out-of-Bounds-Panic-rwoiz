@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust: panicking due to an out-of-bounds vector index.  The `bug.rs` file contains the buggy code, while `bugSolution.rs` shows how to safely access vector elements using the `get()` method, avoiding panics and handling potential errors gracefully.  This example highlights the importance of robust error handling in Rust.
